@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ffdf1b12.css",
-    "main.js": "/static/js/main.b54030c6.js",
+    "main.js": "/static/js/main.b4f604a6.js",
     "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
     "static/media/me-about.JPG": "/static/media/me-about.bd8faf3541d67176194b.JPG",
     "static/media/IMG3.PNG": "/static/media/IMG3.97ef70abc8aaf5985cb1.PNG",
@@ -15,11 +15,11 @@
     "static/media/tcs-logo.png": "/static/media/tcs-logo.649ec89bfb5553414b7b.png",
     "index.html": "/index.html",
     "main.ffdf1b12.css.map": "/static/css/main.ffdf1b12.css.map",
-    "main.b54030c6.js.map": "/static/js/main.b54030c6.js.map",
+    "main.b4f604a6.js.map": "/static/js/main.b4f604a6.js.map",
     "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ffdf1b12.css",
-    "static/js/main.b54030c6.js"
+    "static/js/main.b4f604a6.js"
   ]
 }

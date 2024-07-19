@@ -2,17 +2,10 @@ import { Component } from "react";
 import { SiLeetcode } from "react-icons/si";
 import { SiCodechef } from "react-icons/si";
 import { FaHackerrank } from "react-icons/fa";
-import { FaRegEnvelope } from "react-icons/fa6";
+import { FaRegEnvelope } from "react-icons/fa";
 import { BsLinkedin } from "react-icons/bs";
 import { FaGithub } from "react-icons/fa";
-import {
-  IoLogoTwitter,
-  IoLogoFacebook,
-  IoLogoInstagram,
-  IoLogoYoutube
-} from "react-icons/io";
 import "./footer.css";
-import { BiEnvelope } from "react-icons/bi";
 class Footer extends Component {
   render() {
     return (
