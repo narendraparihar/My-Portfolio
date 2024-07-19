@@ -7,7 +7,7 @@ class CTA extends Component {
         <a className="btn" href={CV} download>
           Download CV
         </a>
-        <a className="btn btn-primary" href="#contact">
+        <a className="btn btn-primary" href="#footer">
           Let's Talk
         </a>
       </div>

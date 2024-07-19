@@ -26,15 +26,15 @@ const data = [
     id: 3,
     image: IMG3,
     title: "Responsive School Website Developed with HTML, CSS, JavaScript",
-    github: "https://shardashishvidhyalay.netlify.app/",
-    demo: "https://inext.dev"
+    github: "https://github.com/narendraparihar/School-Website",
+    demo: "https://shardashishvidhyalay.netlify.app/"
   },
   {
     id: 4,
     image: IMG4,
     title: "Virtual Air Painting, Drawing using motion tracking",
-    github: "https://github.com/inextdeve",
-    demo: "https://inext.dev"
+    github: "https://github.com/narendraparihar/Virtual-Air-painting",
+    demo: "https://github.com/narendraparihar/Virtual-Air-painting"
   },
   {
     id: 5,
