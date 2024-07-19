@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ffdf1b12.css",
+    "main.js": "/static/js/main.b54030c6.js",
+    "static/js/453.acca0757.chunk.js": "/static/js/453.acca0757.chunk.js",
+    "static/media/me-about.JPG": "/static/media/me-about.bd8faf3541d67176194b.JPG",
+    "static/media/IMG3.PNG": "/static/media/IMG3.97ef70abc8aaf5985cb1.PNG",
+    "static/media/virtual air painting.gif": "/static/media/virtual air painting.9a50be45feb0b33967e2.gif",
+    "static/media/IMG2.png": "/static/media/IMG2.177e6cc20c0602616527.png",
+    "static/media/ME1.png": "/static/media/ME1.6896ed7d7196cb38de3f.png",
+    "static/media/IMG1.PNG": "/static/media/IMG1.d5610171eb9271994228.PNG",
+    "static/media/StickeyNotes.png": "/static/media/StickeyNotes.db4eb30048a4a8ae0e9f.png",
+    "static/media/cv.pdf": "/static/media/cv.706527a437250ec579e0.pdf",
+    "static/media/Activity Tracker.png": "/static/media/Activity Tracker.e9fdb06cb6efde7aaf04.png",
+    "static/media/tcs-logo.png": "/static/media/tcs-logo.649ec89bfb5553414b7b.png",
+    "index.html": "/index.html",
+    "main.ffdf1b12.css.map": "/static/css/main.ffdf1b12.css.map",
+    "main.b54030c6.js.map": "/static/js/main.b54030c6.js.map",
+    "453.acca0757.chunk.js.map": "/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffdf1b12.css",
+    "static/js/main.b54030c6.js"
+  ]
+}
